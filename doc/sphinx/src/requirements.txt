@@ -26,7 +26,7 @@ markupsafe==2.0.1
     # via jinja2
 packaging==21.2
     # via sphinx
-pygments==2.10.0
+pygments==2.15.0
     # via sphinx
 pyparsing==2.4.7
     # via packaging
@@ -38,10 +38,10 @@ snowballstemmer==2.1.0
     # via sphinx
 sphinx==4.2.0
     # via
-    #   -r ./src/requirements.in
+    #   -r requirements.in
     #   sphinx-rtd-theme
 sphinx-rtd-theme==1.0.0
-    # via -r ./src/requirements.in
+    # via -r requirements.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
 sphinxcontrib-devhelp==1.0.2
